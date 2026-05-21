@@ -1,4 +1,4 @@
-# Discount-Impact-on-Sales-Econometric-Pricing-Analysis# Discount Impact on Sales – Econometric Pricing Analysis
+# Discount Impact on Sales – Econometric Pricing Analysis
 
 ## Project Overview
 
